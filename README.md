@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![atom2ueki's GitHub stats](https://github-readme-stats.vercel.app/api?username=atom2ueki&show_icons=true&theme=tokyonight)
+
+💬 Worked language for me
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Swift / Objective-C
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / TypeScript / JavaScript
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
